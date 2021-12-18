@@ -1,0 +1,11 @@
+object:
+  class: id.co.hanoman.ngdemo.domain.AppRole
+  key: code
+  fields:
+    - name
+    - description
+
+data:
+  "admin":
+    - Administrator
+    - Administrator
